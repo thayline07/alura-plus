@@ -15,7 +15,7 @@
 - [x] Ajuda com outras informações sobre a aquisiçao.
 
 ## Acesso ao projeto 
-    Você pode acessá-lo clicando no <[link](https://thayline07.github.io/projetos/alura-plus)>!
+    Você pode acessá-lo clicando no <https://thayline07.github.io/projetos/alura-plus>
 
 ## Tecnologias utilizadas 
 * HTML5
