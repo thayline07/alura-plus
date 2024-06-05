@@ -10,8 +10,6 @@
     <construction>  Projeto em construção  </construction>
 </h4>
 
-```
-
 # Funcionalidades do projeto
 
 - [x] Aquisição do combo da plataforma;
