@@ -31,7 +31,7 @@ body {
 
 .container {
     display: grid;
-    grid-template-columns: repeat(2, 55%);
+    grid-template-columns: 50% 50%;
     color: var(--branco-principal);
 }
 
@@ -171,4 +171,62 @@ body {
 .container__botao:hover {
     color: var(--cor-fundo);
     background-color: var(--azul-efeito);
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        background-image: none;
+        display: block;
+    }
+
+    .container__imagem {
+        width: 50vw;
+    }
+
+    .container__caixa {
+        margin: 2em 2em;
+    }
+
+    .secundario {
+        margin: 0;
+        text-align: center;
+        margin-bottom: 10em;
+    }
+
+    .imagem__secundaria {
+        width: 50vw;
+        height: 50vw;
+    }
+
+    .descricao__titulo {
+        padding: 0;
+    }
+
+    .terciario {
+        margin: 0;
+        text-align: center;
+        margin-bottom: 10em;
+    }
+
+    .botao__secundario {
+        margin: 1em 0;
+    }
+
+    .imagem__terciaria {
+        height: 40vw;
+    }
+
+    .quartenario {
+        margin: 0;
+        text-align: center;
+        margin-bottom: 10em;
+    }
+
+    .quintenario__lista {
+        display: block;
+    }
+
+    .rodape__lista {
+        display: block;
+    }
 }
