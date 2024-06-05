@@ -10,6 +10,12 @@
     <construction>  Projeto em construção  </construction>
 </h4>
 
+```
+
 # Funcionalidades do projeto
 
-- [x] Aquisição do combo da plataforma
+- [x] Aquisição do combo da plataforma;
+- [x] Ajuda com outras informações sobre a aquisiçao.
+
+# Acesso ao projeto 
+    Você pode acessá-lo através do [link](https://thayline07.github.io/projetos/alura-plus)
