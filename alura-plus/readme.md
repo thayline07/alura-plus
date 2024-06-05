@@ -1,13 +1,13 @@
 # Página do Alura Plus
 
-![imagem de capa]("imagens/Combo.png")
+<img src="imagens/Combo.png" align="center">
 
 > Projeto desenvolvido no curso da Alura. A página Alura Plus é desenvolvida para ofertar a compra da plataforma de cursos. Nele é permitido que o usuário assine o Combo+ na plataforma.
 
-#### :Projeto em construção:
+#### Projeto em construção
 
 
-## :Funcionalidades do projeto:
+## Funcionalidades do projeto
 
 - [x] Aquisição do combo da plataforma;
 - [x] Ajuda com outras informações sobre a aquisiçao.
