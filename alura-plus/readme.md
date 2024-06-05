@@ -20,3 +20,6 @@
 ## Tecnologias utilizadas 
 * HTML5
 * CSS3
+
+## Autores
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/134567064?v=4" width=115><br><sub>Thayline Simioni</sub>](https://github.com/thayline07) |  
